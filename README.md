@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding, Graphic designing and majorly outdoor sports
 - 🌱 I’m currently learning C++ and Web Dev
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... @_a.yush_s.ingh_ (insta handle)
+- 📫 How to reach me ... https://www.instagram.com/_a.yush_s.ingh_/
 
 <!---
 legit-hola/legit-hola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
